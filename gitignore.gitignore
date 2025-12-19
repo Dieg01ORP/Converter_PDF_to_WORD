@@ -1,0 +1,19 @@
+# Entornos virtuales
+venv/
+venv311/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
