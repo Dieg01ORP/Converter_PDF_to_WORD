@@ -1,0 +1,7 @@
+pdf2docx
+pytesseract
+pdf2image
+python-docx
+pymupdf
+pillow
+opencv-python
